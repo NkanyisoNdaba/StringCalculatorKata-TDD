@@ -1,0 +1,11 @@
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\StringCalclulatorTwo.exe.config
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\StringCalclulatorTwo.exe
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\StringCalclulatorTwo.pdb
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\nunit.framework.dll
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\nunit.framework.pdb
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\bin\Debug\nunit.framework.xml
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\obj\Debug\StringCalclulatorTwo.csprojAssemblyReference.cache
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\obj\Debug\StringCalclulatorTwo.csproj.CoreCompileInputs.cache
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\obj\Debug\StringCalclulatorTwo.csproj.CopyComplete
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\obj\Debug\StringCalclulatorTwo.exe
+C:\Systems\C#\Katas\StringCalclulatorTwo\StringCalclulatorTwo\obj\Debug\StringCalclulatorTwo.pdb
